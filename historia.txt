@@ -1,2 +1,3 @@
 Prueba de Git and Github.
 Agrego una nueva linea.
+AGREGO UNA LINEA EN MAYUSCULAS DESPUES DEL HARD RESET.
